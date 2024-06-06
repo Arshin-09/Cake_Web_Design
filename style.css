@@ -7,9 +7,7 @@ padding-bottom: 20px;
  background: linear-gradient(324deg, #6306062e, transparent);
  }
 .Our_Features{
- background-image: url('images/img-1.jpg');
- background-repeat: no-repeat;
- background-size: cover;
+ background: linear-gradient(324deg, #6306062e, transparent);
  }
 .menu{
 background: linear-gradient(324deg, #6306062e, transparent);
