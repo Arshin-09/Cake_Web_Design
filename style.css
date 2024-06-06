@@ -1,0 +1,320 @@
+.carousel-caption{
+text-align: justify;
+padding-bottom: 20px;
+}
+.about_wrapper{
+ padding-top: 25px;
+ background: linear-gradient(324deg, #6306062e, transparent);
+ }
+.Our_Features{
+ background-image: url('images/back-1.jpg');
+ background-repeat: no-repeat;
+ background-size: cover;
+ }
+.menu{
+background: linear-gradient(324deg, #6306062e, transparent);
+}
+.header_wrapper img{
+height: 70px;
+padding:0
+}
+.our_part {
+    background-color: #752102a1 !important;
+}
+.Online_shop{
+background: linear-gradient(220deg, #6306062e, transparent);
+}
+.review_wrapper{
+background: linear-gradient(335deg, #6306062e, transparent);
+}
+.Contact{
+ background-image: url('images/back.jpg');
+ background-repeat: no-repeat;
+ background-size: cover;
+ padding-bottom:50px;
+ color:white;
+ }
+ .Contact .btn{
+ border: 1px solid rosybrown;
+ color:white;
+padding-right: 26px;
+    padding-left: 26px;
+ }
+.header_wrapper a{
+text-decoration:none;
+color: white;
+text-align: center;
+display: inline;
+    padding-right: 10px;
+}
+.Our_Features{
+ padding-top: 50px;
+}
+.menu_img{
+display:contents;
+}
+.menu_img img{
+height:70px;
+}
+.menu_img h5 {
+    margin-left: 169px;
+    margin-top: -31px;
+}
+.our_part img{
+height:60px;
+width: 60px;
+}
+.navbar{
+background-color:#b2744c;
+}
+.header_wrapper img{
+border-radius:10px;
+width: 160px;
+margin-left: 40px;
+}
+.navbar-nav{
+margin-left:50px;
+}
+.nav-item .nav-link{
+color:black;
+margin-left: 10px;
+font-weight: bold;
+transition:0.5s;
+font-size: 16px;
+text-align: center;
+}
+.nav-item .nav-link:hover{
+background:#f7f5f2;
+border-radius: 5px;
+color: black;
+}
+.header_wrapper button{
+background: black;
+color: white;
+border: 1px solid white;
+}
+.client h5{
+color: #e5a45e;
+}
+
+.blog-img1{
+display:inline-block;
+position: relative;
+display:flex;
+}
+.blog-hover{
+color: white;
+    background: #c78064ba;
+    text-align: center;
+    position: absolute;
+    padding-top: 50px;
+    display: none;
+    top: 0;
+    right: 0;
+    left: 0;
+    bottom: 0;
+}
+.blog-img1:hover .blog-hover{
+display:block;
+}
+.blog-img2{
+display:inline-block;
+position: relative;
+display:flex;
+}
+.blog-hover2{
+color: white;
+    background: #c78064ba;
+    text-align: center;
+    position: absolute;
+    padding-top: 50px;
+    display: none;
+    top: 0;
+    right: 0;
+    left: 0;
+    bottom: 0;
+}
+.blog-img2:hover .blog-hover2{
+display:block;
+}
+.blog-img3{
+display:inline-block;
+position: relative;
+display:flex;
+}
+.blog-hover3{
+color: white;
+    background: #c78064ba;
+    text-align: center;
+    position: absolute;
+    padding-top: 50px;
+    display: none;
+    top: 0;
+    right: 0;
+    left: 0;
+    bottom: 0;
+}
+.blog-img3:hover .blog-hover3{
+display:block;
+}
+.news_2{
+padding-top: 40px;
+}
+.submit label{
+position: relative;
+}
+.submit input{
+    border: 1px solid black;
+padding: 10px;
+width: 289px;
+border-radius:  20px ;
+}
+.submit button{
+border:none;
+padding: 10px;
+padding-left: 15px;
+padding-right: 15px;
+position: absolute;
+top: 0;
+bottom: 0;
+right: 0;
+background: green;
+color: white;
+border-radius:  20px  ;
+}
+.btn-101,
+.btn-101 *,
+.btn-101 :after,
+.btn-101 :before,
+.btn-101:after,
+.btn-101:before {
+  border: 0 solid;
+  box-sizing: border-box;
+}
+.btn-101 {
+  -webkit-tap-highlight-color: transparent;
+  -webkit-appearance: button;
+  background-color: hsla(3.25deg 88.49% 43.52% / 80%);
+  background-image: none;
+  color: black;
+  font-family: ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont,
+    Segoe UI, Roboto, Helvetica Neue, Arial, Noto Sans, sans-serif,
+    Apple Color Emoji, Segoe UI Emoji, Segoe UI Symbol, Noto Color Emoji;
+  font-size: 100%;
+  font-weight: 900;
+  line-height: 1.5;
+  margin: 0;
+  -webkit-mask-image: -webkit-radial-gradient(#000, #fff);
+  padding: 0;
+  text-transform: uppercase;
+}
+.btn-101:disabled {
+  cursor: default;
+}
+.btn-101:-moz-focusring {
+  outline: auto;
+}
+.btn-101 svg {
+  vertical-align: middle;
+}
+.btn-101 [hidden] {
+  display: none;
+}
+.btn-101 {
+  --thickness: 0.3rem;
+  --roundness: 1.2rem;
+  --color: #7a0000;
+  --opacity: 0.6;
+  -webkit-backdrop-filter: blur(100px);
+  backdrop-filter: blur(100px);
+  background: hsl(19.86deg 86.22% 31.79% / 24%);
+  border: none;
+  border-radius: var(--roundness);
+  color: var(--color);
+  cursor: pointer;
+  display: block;
+  font-family: Poppins, "sans-serif";
+  font-size: 1rem;
+  font-weight: 500;
+  padding: 0.8rem 2rem;
+  position: relative;
+}
+.btn-101:hover {
+  background: hsla(0, 0%, 100%, 0.3);
+  filter: brightness(1.2);
+}
+.btn-101:active {
+  --opacity: 0;
+  background: hsla(0, 0%, 100%, 0.1);
+}
+.btn-101 svg {
+  border-radius: var(--roundness);
+  display: block;
+  filter: url(#glow);
+  height: 100%;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 100%;
+}
+.btn-101 rect {
+  fill: none;
+  stroke: #4f0000;
+  stroke-width: var(--thickness);
+  rx: var(--roundness);
+  stroke-linejoin: round;
+  stroke-dasharray: 185%;
+  stroke-dashoffset: 80;
+  -webkit-animation: snake 2s linear infinite;
+  animation: snake 2s linear infinite;
+  -webkit-animation-play-state: paused;
+  animation-play-state: paused;
+  height: 100%;
+  opacity: 0;
+  transition: opacity 0.2s;
+  width: 100%;
+}
+.btn-101:hover rect {
+  -webkit-animation-play-state: running;
+  animation-play-state: running;
+  opacity: var(--opacity);
+}
+@-webkit-keyframes snake {
+  to {
+    stroke-dashoffset: 370%;
+  }
+}
+@keyframes snake {
+  to {
+    stroke-dashoffset: 370%;
+  }
+}
+.Fot_main{
+background-image:url('images/coffee-beans-bg.png');
+background-repeat:no-repeat;
+background-size:cover;
+}
+a {
+margin-top:30px;
+    color: #810a0a;
+    text-decoration: underline;
+}
+.news_wrapper{
+background-image:url('images/top-2.jpg');
+background-repeat:no-repeat;
+background-size:cover;
+color: white;
+    padding-bottom: 20px;
+}
+.blog_wrapper{
+background: linear-gradient(314deg, #6306062e, transparent);
+
+}
+.Blog{
+background: linear-gradient(205deg, #6306062e, transparent);
+}
+
+.Offer_wrapper{
+background: linear-gradient(210deg, #6306062e, transparent);
+
+}
