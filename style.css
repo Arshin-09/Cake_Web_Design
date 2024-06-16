@@ -316,3 +316,13 @@ background: linear-gradient(205deg, #6306062e, transparent);
 background: linear-gradient(210deg, #6306062e, transparent);
 
 }
+.card{
+ansition-property:transform background;
+transition-timing-function:ease-out;
+transition-duration: 3s;
+transition-dealy: 3s;
+}
+.card:hover{
+transform: translateY(-10px);
+background-color:#b77d6957;
+}
