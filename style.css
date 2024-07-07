@@ -316,6 +316,10 @@ background: linear-gradient(205deg, #6306062e, transparent);
 background: linear-gradient(210deg, #6306062e, transparent);
 
 }
+.owl-carousel .owl-item img {
+    display: block;
+    /* width: 100%; */
+}
 .card{
 ansition-property:transform background;
 transition-timing-function:ease-out;
