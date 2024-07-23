@@ -311,13 +311,9 @@ background: linear-gradient(205deg, #6306062e, transparent);
 background: linear-gradient(210deg, #6306062e, transparent);
 
 }
-.owl-carousel .owl-item img {
-   
- width:40px;
- height:40px;
-}
+
 .owl-carousel .owl-item h4 {
-   
+   text-align:center;
  width:40px;
  height:40px;
 }
