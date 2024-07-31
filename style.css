@@ -9,6 +9,13 @@ padding-bottom: 20px;
 .Our_Features{
  background: linear-gradient(199deg, #6306062e, transparent);
  }
+.our_part {
+            background-color:#f8f8f8;
+    color: black;}
+    .our_part:hover{
+      background-color:#490d0d;
+      color:white;
+    }
 .menu{
 background: linear-gradient(324deg, #6306062e, transparent);
 }
